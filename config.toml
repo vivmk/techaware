@@ -6,7 +6,7 @@ paginate = 3
 [params]
   contentTypeName = "posts"
   defaultTheme = "dark"
-  showMenuItems = 0
+  showMenuItems = 2
   showReadingTime = true
 
 [languages]
@@ -28,3 +28,13 @@ paginate = 3
     [languages.en.params.logo]
       logoText = "Tech Aware"
       logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"
