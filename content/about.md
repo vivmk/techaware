@@ -6,4 +6,4 @@ author = "Tech Aware"
 
 # Hello Friend.
 
-You will see about us here soon.
+Hello, fiend. Hello, friend. That's lame. Maybe I should give you a name. But that's a slippery slop. You're only in my head. We have to remember that.
