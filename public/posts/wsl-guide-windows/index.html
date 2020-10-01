@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+      <title>
+        How to install Kali Linux on Windows 10 through WSL ::
+        Tech Aware — A simple open source Blog to get people closer to technology.
+      </title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="The Windows Subsystem for Linux lets developers run a GNU/Linux environment &amp;ndash; including most command-line tools, utilities, and applications &amp;ndash; directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
+Installing WSL Before we get started, update your machine. You need to be running on Windows 10 version 1903 build 18362 or higher.
+Method I - Using GUI Search for (windows key &#43; S) Windows Features in your PC and check the Windows Subsystem for Linux and Virtual Machine Platform options ticked."
+/>
+<meta
+  name="keywords"
+  content="Security, Technology, Software, Internet"
+/>
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="/posts/wsl-guide-windows/" />
+
+
+
+
+
+<link rel="stylesheet" href="/assets/style.css" />
+
+<link rel="stylesheet" href="/style.css" />
+
+
+<link
+  rel="apple-touch-icon-precomposed"
+  sizes="144x144"
+  href="/img/apple-touch-icon-144-precomposed.png"
+/>
+<link rel="shortcut icon" href="/img/favicon.png" />
+
+
+<link href="/assets/fonts/Inter-Italic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/assets/fonts/Inter-Regular.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/assets/fonts/Inter-Medium.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/assets/fonts/Inter-MediumItalic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/assets/fonts/Inter-Bold.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+<link href="/assets/fonts/Inter-BoldItalic.woff2" rel="preload" type="font/woff2" as="font" crossorigin="">
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to install Kali Linux on Windows 10 through WSL"/>
+<meta name="twitter:description" content="The Windows Subsystem for Linux lets developers run a GNU/Linux environment &ndash; including most command-line tools, utilities, and applications &ndash; directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
+Installing WSL Before we get started, update your machine. You need to be running on Windows 10 version 1903 build 18362 or higher.
+Method I - Using GUI Search for (windows key &#43; S) Windows Features in your PC and check the Windows Subsystem for Linux and Virtual Machine Platform options ticked."/>
+
+
+
+<meta property="og:title" content="How to install Kali Linux on Windows 10 through WSL" />
+<meta property="og:description" content="The Windows Subsystem for Linux lets developers run a GNU/Linux environment &ndash; including most command-line tools, utilities, and applications &ndash; directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
+Installing WSL Before we get started, update your machine. You need to be running on Windows 10 version 1903 build 18362 or higher.
+Method I - Using GUI Search for (windows key &#43; S) Windows Features in your PC and check the Windows Subsystem for Linux and Virtual Machine Platform options ticked." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/wsl-guide-windows/" />
+<meta property="article:published_time" content="2020-09-13T19:49:57+05:30" />
+<meta property="article:modified_time" content="2020-09-13T19:49:57+05:30" /><meta property="og:site_name" content="Tech Aware" />
+
+
+
+
+
+
+  </head>
+  <body class="dark-theme">
+    <div class="container">
+      <header class="header">
+  <span class="header__inner">
+    <a
+  href="/"
+  class="logo"
+  style="text-decoration: none;"
+>
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
+  <path fill="none" d="M15 8l14.729 14.382L15 35.367" />
+</svg>
+</span>
+    <span class="logo__text"
+      >Tech Aware</span
+    >
+    <span class="logo__cursor"></span>
+  
+</a>
+
+    <span class="header__right">
+      
+      <span class="theme-toggle">
+        <svg
+  class="theme-toggler"
+  width="24"
+  height="24"
+  viewBox="0 0 48 48"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"
+  />
+</svg>
+
+      </span>
+    </span>
+  </span>
+</header>
+
+
+      <div class="content">
+        
+  
+  
+
+  <div class="post">
+    <h1 class="post-title">How to install Kali Linux on Windows 10 through WSL</h1>
+    <div class="post-meta">
+      
+        <span class="post-date">
+          2020-09-13
+        </span>
+
+        
+          
+        
+      
+
+      
+        <span class="post-author"
+          >— Written by Khaleeq Ahmed</span
+        >
+
+
+      
+        <span class="post-read-time"
+          >— 2 min read</span
+        >
+      
+    </div>
+
+    
+
+    
+
+    <div class="post-content">
+      
+      <p>The Windows Subsystem for Linux lets developers run a GNU/Linux environment &ndash; including most command-line tools, utilities, and applications &ndash; directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.</p>
+<h3 id="installing-wsl">Installing WSL</h3>
+<p>Before we get started, update your machine. You need to be running on Windows 10 version 1903 build 18362 or higher.</p>
+<h4 id="method-i---using-gui">Method I - Using GUI</h4>
+<p>Search for (windows key + S) <code>Windows Features</code> in your PC and check the <code>Windows Subsystem for Linux</code> and <code>Virtual Machine Platform</code> options ticked.</p>
+<p><img src="https://www.linkpicture.com/q/Screenshot-103.png" alt="Windows Features"></p>
+<p>Now restart your machine.</p>
+<h4 id="method-ii---using-powershell">Method II - Using Powershell</h4>
+<p>Open PowerShell as an Administrator and run the following commands:</p>
+<hr>
+<p>To enable Windows Subsystem for Linux:</p>
+<p><code>dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart</code></p>
+<p>Now restart your machine.</p>
+<hr>
+<p>To enable Virtual Machine Platform:</p>
+<p><code>dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart</code></p>
+<p>Restart your machine again.</p>
+<hr>
+<p>To set WSL2 as your default version:</p>
+<p><code>wsl --set-default-version 2</code></p>
+<hr>
+<h3 id="installing-kali">Installing Kali</h3>
+<p>Download and Install Kali from the <a href="https://aka.ms/wslstore">Microsoft Store</a>. Open the installed app from the Start menu. Add a new User and set up a Password as shown in the screenshot below -</p>
+<p><img src="https://www.linkpicture.com/q/Screenshot-108.png" alt="Kali on Windows 10"></p>
+<p>You are halfway there, you have successfully installed kali using WSL.</p>
+<h3 id="configuring-kali-setting-up-a-gui">Configuring Kali (Setting up a GUI)</h3>
+<p>Now let us Install the Desktop Environment (win-kex).
+Open Kali terminal and run the following commands:</p>
+<hr>
+<p>To update the Kali repositories:</p>
+<p><code>sudo apt update</code></p>
+<hr>
+<p>To install the updates available for Kali:</p>
+<p><code>sudo apt upgrade</code></p>
+<hr>
+<p>To install the win-kex (Kali Desktop Experience for Windows):</p>
+<p><code>sudo apt install kali-win-kex</code></p>
+<hr>
+<p>Note: If you get error while installing <code>kali-win-kex</code> then make sure you have enabled <code>Virtual Machine Platform</code> and are using Kali in WSL2 and not WSL1.</p>
+<p><img src="https://www.linkpicture.com/q/Screenshot-135.png" alt="Trubleshoot"></p>
+<p>Now, run the command <code>kex</code> to install the GUI. It takes sometime. After it is installed, you can press F8 key to open VNC options and exit full screen!</p>
+<p>Congrats! You have Kali up and running:</p>
+<p><img src="https://www.linkpicture.com/q/Screenshot-130.png" alt="Kali on windows 10"></p>
+<p>If you want to install complete Kali, you can do so by running the command <code>sudo apt install kali-linux-large</code>. This step is optional. You can do it if you need it and have enough space.</p>
+
+    </div>
+    
+      
+        <div class="pagination">
+          <div class="pagination__title">
+            <span class="pagination__title-h"
+              >Read other posts</span
+            >
+            <hr />
+          </div>
+          <div class="pagination__buttons">
+            
+              <span class="button previous">
+                <a href="/posts/infosec-resources/">
+                  <span class="button__icon">←</span>
+                  <span class="button__text">My favourite resources to explore Cyber Security career</span>
+                </a>
+              </span>
+            
+            
+              <span class="button next">
+                <a href="/posts/burp-suite-pro/">
+                  <span class="button__text">How to install Burp Suite Professional for free on Windows</span>
+                  <span class="button__icon">→</span>
+                </a>
+              </span>
+            
+          </div>
+        </div>
+      
+    
+
+    
+      
+        
+
+      
+    
+  </div>
+
+      </div>
+
+      
+        <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">Tech Aware &copy 2020</div>
+      
+  </div>
+</footer>
+
+<script src="/assets/main.js"></script>
+<script src="/assets/prism.js"></script>
+
+
+      
+    </div>
+
+    
+  </body>
+</html>

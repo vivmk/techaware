@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Aware</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Tech Aware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tech Aware &amp;copy 2020</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 11:22:40 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginner guide to get your career started in Cyber-security</title>
+      <link>/posts/getting-started-cybsec/</link>
+      <pubDate>Thu, 01 Oct 2020 11:22:40 +0530</pubDate>
+      
+      <guid>/posts/getting-started-cybsec/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Getting Started with Cyber Security? Interested in cyber security and dont know where to start or is it even for you?
+Cisco offers self paced course in cyber security for beginners, Introduction to Cybersecurity. This course has five chapters and is for beginners looking to get started.
+ The Need for Cybersecurity Attacks, Concepts and Techniques Protecting Your Data and Privacy Protecting the Organization Will Your Future Be in Cybersecurity?  Introduction to Cybersecurity
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Explore free and certified Linux courses for beginners</title>
+      <link>/posts/certified-linux-course/</link>
+      <pubDate>Thu, 01 Oct 2020 10:55:54 +0530</pubDate>
+      
+      <guid>/posts/certified-linux-course/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Certified Linux Course For Free Cisco Netacad gives training for Linux, its self paced course, from beginners to advance users. And today I will show you how you can get started with it.
+Cisco Netacad offers two self paced for Linux
+ NDG Linux Unhatched NDG Linux Essentials  NDG Linux Unhatched This is the start from scratch Linux course. This is for beginners and people who have a very basic understating of the Linux systems.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Beginner guide to install custom ROM on a Xiaomi phone</title>
+      <link>/posts/xiaomi-custom-rom/</link>
+      <pubDate>Tue, 29 Sep 2020 19:34:03 +0530</pubDate>
+      
+      <guid>/posts/xiaomi-custom-rom/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A custom ROM is one that has undergone any modification from being a pure distribution of Android. You can read more about it in detail in this article.
+Steps to install a custom ROM:
+ Unlock Bootloader Install custom Recovery Flash ROM zip file Flash root zip file Reboot and enjoy!   1. Unlocking Bootloader Different brands have their own individual methods of requesting permissions from the manufacturer to unlock bootloader.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My favourite resources to explore Cyber Security career</title>
+      <link>/posts/infosec-resources/</link>
+      <pubDate>Sat, 26 Sep 2020 08:40:12 +0530</pubDate>
+      
+      <guid>/posts/infosec-resources/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to install Kali Linux on Windows 10 through WSL</title>
+      <link>/posts/wsl-guide-windows/</link>
+      <pubDate>Sun, 13 Sep 2020 19:49:57 +0530</pubDate>
+      
+      <guid>/posts/wsl-guide-windows/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The Windows Subsystem for Linux lets developers run a GNU/Linux environment &amp;ndash; including most command-line tools, utilities, and applications &amp;ndash; directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
+Installing WSL Before we get started, update your machine. You need to be running on Windows 10 version 1903 build 18362 or higher.
+Method I - Using GUI Search for (windows key + S) Windows Features in your PC and check the Windows Subsystem for Linux and Virtual Machine Platform options ticked.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to install Burp Suite Professional for free on Windows</title>
+      <link>/posts/burp-suite-pro/</link>
+      <pubDate>Sun, 06 Sep 2020 21:19:22 +0530</pubDate>
+      
+      <guid>/posts/burp-suite-pro/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine.
+Things that you will need:
+ Java JDK (13.0.2) - Download Burp Suite Pro zip file (2020.9) - Download   After you have downloaded both the files, follow these steps:
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Learn Complete Website Development | Beginner&#39;s Guide</title>
+      <link>/posts/web-dev/</link>
+      <pubDate>Sun, 19 Jul 2020 12:41:48 +0530</pubDate>
+      
+      <guid>/posts/web-dev/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is a pathway I took to learn to make attractive websites (like one you are on now) from scratch. All the resources listed here will be available for free on Internet &amp;amp; you need not pay a buck for anything.
+Note: This is not a site builder guide. We will be talking about coding!
+You cannot write the content on a website without the knowledge of HTML. It tells you how to place simple texts and images on screen.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to get paid things for absolutely free on the Internet</title>
+      <link>/posts/free-content/</link>
+      <pubDate>Sun, 19 Jul 2020 12:29:56 +0530</pubDate>
+      
+      <guid>/posts/free-content/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Introduction It&amp;rsquo;s said that in the hacking world that if you cannot find a free way of getting a paid thing on the Internet, you are not looking enough.
+Below is a list of some apps &amp;amp; websites that may help you to so. They are absolutely free of price. However, you may have to click a couple of more buttons (and probably wait for couple of seconds) to get the product.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hello Friend. You will see about us here soon.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
