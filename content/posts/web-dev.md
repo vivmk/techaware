@@ -3,10 +3,10 @@ title: "Learn Complete Website Development | Beginner's Guide"
 date: 2020-07-19T12:41:48+05:30
 draft: false
 author: "Vivek Mishra"
+description: "This is a pathway I took to learn to make attractive websites (like one you are on now) from scratch. All the resources listed here will be available for free on Internet & you need not pay a buck for anything."
 ---
 
-This is a pathway I took to learn to make attractive websites (like one you are on now) from scratch. All the resources listed here
-will be available for free on Internet & you need not pay a buck for anything.
+This is a pathway I took to learn to make attractive websites (like one you are on now) from scratch. All the resources listed here will be available for free on Internet & you need not pay a buck for anything.
 
 Note: This is not a site builder guide. We will be talking about coding!
 

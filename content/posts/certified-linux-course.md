@@ -3,6 +3,7 @@ title: "Explore free and certified Linux courses for beginners"
 date: 2020-10-01T10:55:54+05:30
 draft: false
 author: "Khaleeq Ahmed"
+description: "Cisco Netacad gives training for Linux, its self paced course, from beginners to advance users. And today I will show you how you can get started with it."
 ---
 
 # Certified Linux Course For Free

@@ -3,6 +3,7 @@ title: "Beginner guide to get your career started in Cyber-security"
 date: 2020-10-01T11:22:40+05:30
 draft: false
 author: "Khaleeq Ahmed"
+description: "Cisco offers self paced course in cyber security for beginners, **Introduction to Cybersecurity**. This course has five chapters and is for beginners looking to get started."
 ---
 
 # Getting Started with Cyber Security?
