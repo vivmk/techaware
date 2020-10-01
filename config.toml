@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "friend"
+theme = "hello-friend"
 paginate = 3
 
 [params]
