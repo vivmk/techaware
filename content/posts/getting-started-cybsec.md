@@ -7,7 +7,7 @@ author: "Khaleeq Ahmed"
 
 # Getting Started with Cyber Security?
 
-Intrested in cyber security and dont know where to start or is it even for you?
+Interested in cyber security and dont know where to start or is it even for you?
 
 Cisco offers self paced course in cyber security for beginners, **Introduction to Cybersecurity**. This course has five chapters and is for beginners looking to get started.
 
