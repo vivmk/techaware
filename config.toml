@@ -1,0 +1,30 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-frien"
+paginate = 3
+
+[params]
+  contentTypeName = "posts"
+  defaultTheme = "dark"
+  showMenuItems = 0
+  showReadingTime = true
+
+[languages]
+  [languages.en]
+    title = "Tech Aware"
+    subtitle = "A simple open source Blog to get people closer to technology."
+    keywords = "Security, Technology, Software, Internet"
+    copyright = "Tech Aware &copy 2020"
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "Tech Aware"
+      logoHomeLink = "/"
