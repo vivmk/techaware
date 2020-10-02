@@ -58,6 +58,6 @@ git commit -m "First commit"
 
 ## License
 
-Copyright © 2020 Vivek Mishra ([@panr](https://twitter.com/iamvvekm))
+Copyright © 2020 Vivek Mishra ([@iamvvekm](https://twitter.com/iamvvekm))
 
 The theme is released under the MIT License. Check the [original theme license](https://github.com/iamvkm/techaware/blob/master/LICENSE.md) for additional licensing information.
