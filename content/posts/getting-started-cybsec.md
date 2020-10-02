@@ -3,21 +3,23 @@ title: "Beginner guide to get your career started in Cyber-security"
 date: 2020-10-01T11:22:40+05:30
 draft: false
 author: "Khaleeq Ahmed"
-description: "Cisco offers self paced course in cyber security for beginners, **Introduction to Cybersecurity**. This course has five chapters and is for beginners looking to get started."
+description: "Cisco offers self paced course in cyber security for beginners, **Introduction to Cyber-security**. This course has five chapters and is for beginners looking to get started."
 ---
 
-# Getting Started with Cyber Security with Cisco?
+Cyber-security professionals who can protect and defend an organization's network are in high-demand right now. Put your detective-like qualities to work by gaining knowledge toward a career in fighting cyber crime.
 
-Interested in cyber security and dont know where to start or is it even for you?
+![Cisco Cyber-security](/img/cyber-02-10.png)
 
-Cisco offers self paced course in cyber security for beginners, **Introduction to Cybersecurity**. This course has five chapters and is for beginners looking to get started.
+Cisco offers a self paced course in Cyber-security for beginners: **Introduction to Cyber-security**. This course has five chapters and is for someone looking to get started. You will learn:
 
-- The Need for Cybersecurity
+- The Need for Cyber-security
 - Attacks, Concepts and Techniques
 - Protecting Your Data and Privacy
 - Protecting the Organization
-- Will Your Future Be in Cybersecurity?
+- Will Your Future Be in Cyber-security?
 
-[Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
+Access this course here:
 
-If you find this interesting check out this out [Certified Linux Course For Free](https://techaware.netlify.app/posts/getting-started-cybsec/techawarelink)
+[Introduction to Cyber-security](https://www.netacad.com/courses/Cyber-security/introduction-Cyber-security)
+
+If you find this interesting check out this out [Certified Linux Course For Free](https://techaware.netlify.app/posts/certified-linux-course)
