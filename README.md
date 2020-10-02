@@ -31,7 +31,7 @@ See how to make changes and host them to website.
 Clone the repository you forked to your computer:
 
 ```bash
-$ git clone https://github.com/your-username/techaware.git
+$ git clone https://github.com/iamvkm/techaware.git
 ```
 
 Make changes to the files you want. If you are creating a new post.md file, change the `draft: false` and run this command to run the project in browser locally:
