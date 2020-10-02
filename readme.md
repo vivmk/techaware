@@ -54,6 +54,12 @@ Commit the tracked changes and prepares them to be pushed to a remote repository
 git commit -m "First commit"
 ```
 
+Push everything to your forked repository:
+
+```bash
+git push origin master
+```
+
 #### [Send Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ## License
