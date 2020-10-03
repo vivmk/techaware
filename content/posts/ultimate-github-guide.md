@@ -4,6 +4,7 @@ date: 2020-10-02T23:30:29+05:30
 draft: false
 author: "Vivek Mishra"
 description: "This is for someone who has heard of GitHub somewhere, who knows little about what it is used for, or someone who tried it but found it hard work with or understand. Let us make this simple."
+tags: ["Beginner", "General", "Career"]
 ---
 
 #### What is it actually?

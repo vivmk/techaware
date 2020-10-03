@@ -4,6 +4,7 @@ date: 2020-07-19T12:29:56+05:30
 draft: false
 author: "Vivek Mishra"
 description: "It's said that in the hacking world that if you cannot find a free way of getting a paid thing on the Internet, you are not looking enough."
+tags: ["Beginner", "General", "Hack"]
 ---
 
 ## Introduction

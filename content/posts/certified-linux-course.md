@@ -4,6 +4,7 @@ date: 2020-10-01T10:55:54+05:30
 draft: false
 author: "Khaleeq Ahmed"
 description: "Cisco Netacad gives training for Linux, its self paced course, from beginners to advance users. And today I will show you how you can get started with it."
+tags: ["Beginner", "Cyber-security", "Career"]
 ---
 
 Whether you're a novice to the digital world or an aspiring SysAdmin or programmer, these courses will propel you forward. Advanced courses will also prepare you for career-ready certification.

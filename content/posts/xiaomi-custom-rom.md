@@ -4,6 +4,7 @@ date: 2020-09-29T19:34:03+05:30
 draft: false
 author: "Vivek Mishra"
 description: "A custom ROM is one that has undergone any modification from being a pure distribution of Android. You can read more about it in detail in [this](https://www.androidauthority.com/what-is-a-custom-rom-android-74072/) article."
+tags: ["Beginner", "General", "Guide"]
 ---
 
 A custom ROM is one that has undergone any modification from being a pure distribution of Android. You can read more about it in detail in [this](https://www.androidauthority.com/what-is-a-custom-rom-android-74072/) article.

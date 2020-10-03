@@ -4,6 +4,7 @@ date: 2020-09-06T21:19:22+05:30
 draft: false
 author: "Vivek Mishra"
 description: "Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine."
+tags: ["Intermediate", "Cyber-security", "Guide"]
 ---
 
 Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine.

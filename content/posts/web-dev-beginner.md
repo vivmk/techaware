@@ -4,6 +4,7 @@ date: 2020-07-19T12:41:48+05:30
 draft: false
 author: "Vivek Mishra"
 description: "This is a pathway I took to learn to make attractive websites (like one you are on now) from scratch. All the resources listed here will be available for free on Internet & you need not pay a buck for anything."
+tags: ["Beginner", "Web Development", "Career"]
 ---
 
 This is a pathway I took to learn to make attractive websites (like one you are on now) from scratch. All the resources listed here will be available for free on Internet & you need not pay a buck for anything.

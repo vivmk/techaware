@@ -4,6 +4,7 @@ date: 2020-10-01T11:22:40+05:30
 draft: false
 author: "Khaleeq Ahmed"
 description: "Cisco offers self paced course in cyber security for beginners, **Introduction to Cyber-security**. This course has five chapters and is for beginners looking to get started."
+tags: ["Beginner", "Cyber-security", "Career"]
 ---
 
 Cyber-security professionals who can protect and defend an organization's network are in high-demand right now. Put your detective-like qualities to work by gaining knowledge toward a career in fighting cyber crime.

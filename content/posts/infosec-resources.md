@@ -4,6 +4,7 @@ date: 2020-09-26T08:40:12+05:30
 draft: false
 author: "Vivek Mishra"
 description: "I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested."
+tags: ["Beginner", "Cyber-security", "Career"]
 ---
 
 I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.

@@ -4,6 +4,7 @@ date: 2020-09-13T19:49:57+05:30
 draft: false
 author: "Khaleeq Ahmed"
 description: "The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup."
+tags: ["Intermediate", "Cyber-security", "Guide"]
 ---
 
 The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
