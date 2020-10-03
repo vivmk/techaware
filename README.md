@@ -1,6 +1,6 @@
 # Tech Aware
 
-![image](/static/img/home.png)
+![image](/static/img/homepage.png)
 
 ---
 
