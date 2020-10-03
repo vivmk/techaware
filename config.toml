@@ -14,7 +14,7 @@ googleAnalytics = "UA-133160807-4"
 [languages]
   [languages.en]
     title = "Tech Aware"
-    subtitle = "A simple open source Blog to get people closer to technology."
+    subtitle = "Technology Simplified!"
     keywords = "Security, Technology, Software, Internet"
     copyright = "Tech Aware &copy 2020"
     menuMore = "Show more"
