@@ -4,6 +4,7 @@ theme = "friend"
 paginate = 4
 enableEmoji = true
 googleAnalytics = "UA-133160807-4"
+subtitle = "A simple open source Blog to get people closer to technology."
 
 [params]
   title = "Tech Aware"
@@ -11,7 +12,6 @@ googleAnalytics = "UA-133160807-4"
   defaultTheme = "dark"
   showMenuItems = 2
   showReadingTime = true
-  subtitle = "A simple open source Blog to get people closer to technology."
 
 [languages]
   [languages.en]
