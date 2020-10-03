@@ -6,10 +6,12 @@ enableEmoji = true
 googleAnalytics = "UA-133160807-4"
 
 [params]
+  title = "Tech Aware"
   contentTypeName = "posts"
   defaultTheme = "dark"
   showMenuItems = 2
   showReadingTime = true
+  subtitle = "A simple open source Blog to get people closer to technology and learn ways to stay safer online."
 
 [languages]
   [languages.en]
