@@ -1,5 +1,5 @@
 ---
-title: "My favourite resources to explore Cyber Security career"
+title: "My favourite resources to explore Cyber-security career"
 date: 2020-09-26T08:40:12+05:30
 draft: false
 author: "Vivek Mishra"

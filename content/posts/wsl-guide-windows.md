@@ -1,5 +1,5 @@
 ---
-title: "How to install Kali Linux on Windows 10 through WSL"
+title: "Learn how to install Kali Linux on Windows 10 through WSL"
 date: 2020-09-13T19:49:57+05:30
 draft: false
 author: "Khaleeq Ahmed"

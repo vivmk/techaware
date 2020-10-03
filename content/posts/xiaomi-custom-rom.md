@@ -1,5 +1,5 @@
 ---
-title: "Beginner guide to install custom ROM on a Xiaomi phone"
+title: "How to install custom ROMs on supported Xiaomi phones"
 date: 2020-09-29T19:34:03+05:30
 draft: false
 author: "Vivek Mishra"

@@ -1,5 +1,5 @@
 ---
-title: "Your Ultimate Beginner Guide to explore GitHub"
+title: "Your ultimate beginner guide to explore GitHub platform"
 date: 2020-10-02T23:30:29+05:30
 draft: false
 author: "Vivek Mishra"
