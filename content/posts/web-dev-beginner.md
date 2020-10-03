@@ -1,5 +1,5 @@
 ---
-title: "Beginner guide to learn Front-end Web Development from scratch"
+title: "Beginner guide to learn Front-end Web Development"
 date: 2020-07-19T12:41:48+05:30
 draft: false
 author: "Vivek Mishra"
