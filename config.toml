@@ -11,7 +11,7 @@ googleAnalytics = "UA-133160807-4"
   defaultTheme = "dark"
   showMenuItems = 2
   showReadingTime = true
-  subtitle = "A simple open source Blog to get people closer to technology and learn ways to stay safer online."
+  subtitle = "A simple open source Blog to get people closer to technology."
 
 [languages]
   [languages.en]
