@@ -13,7 +13,7 @@ googleAnalytics = "UA-133160807-4"
 
 [languages]
   [languages.en]
-    title = "Tech Aware"
+    title = "Tech Aware - Technology Simplified!"
     subtitle = "Technology Simplified!"
     keywords = "Security, Technology, Software, Internet"
     copyright = "Tech Aware &copy 2020"
