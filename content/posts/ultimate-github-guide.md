@@ -126,8 +126,6 @@ Next is contributing to a project owned by someone else:
 
 ### It was bit complicated right?
 
-It is hard. It is always hard the first time you do something. Especially when you are collaborating, making mistakes is not a comfortable thing.
-
-But remember, it will be fun once you get used to it :wink:
+It is hard. It is always hard the first time you do something. Especially when you are collaborating, making mistakes is not a comfortable thing. But remember, it will be fun once you get used to it :wink:
 
 `Eat, Sleep, Commit, Repeat !`
