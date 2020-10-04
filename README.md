@@ -4,9 +4,7 @@
 
 ---
 
-A simple open source Blog to get people closer to technology, understand it better and learn ways to stay safer online.
-
-<!-- <a href="https://www.buymeacoffee.com/panr" target="_blank"><img src="https://res.cloudinary.com/panr/image/upload/v1579374705/buymeacoffee_y6yvov.svg" alt="Buy Me A Coffee" ></a> -->
+A simple open source Blog to get people closer to technology and learn ways to stay safer online.
 
 ---
 
