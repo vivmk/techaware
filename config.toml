@@ -7,7 +7,7 @@ googleAnalytics = "UA-133160807-4"
 
 [params]
   contentTypeName = "posts"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   showMenuItems = 2
   showReadingTime = true
 
