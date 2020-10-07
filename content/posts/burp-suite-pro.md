@@ -72,7 +72,7 @@ Now extract the downlaoded `BurpSuite_Pro_2020.9.zip` file. Use the password: 31
 
 #### How to open the installed Burp Suite Pro?
 
-- Search `Notepad` in the Windows search bar, and open it and paste the following command:
+- Search `Notepad` in the Windows search bar, open it and paste the following command:
 
   `java -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.9.jar`
 
