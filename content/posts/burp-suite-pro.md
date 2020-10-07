@@ -77,8 +77,8 @@ Now extract the downlaoded `BurpSuite_Pro_2020.9.zip` file. Use the password: 31
   `java -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.9.jar`
 
 - Go to `File > Save As...` and open the extracted folder again. Save the file there as: `BurpLoader.bat`. Remember to select `All Files` in the `Save as type` option.
-- Now whenever you want to open Burp Suite, just double click on your `BurpLoader.bat` file
+- Now whenever you want to open Burp Suite, just double click on your `BurpLoader.bat` file.
 
 ---
 
-Congratulations, you have Burp Suite Pro set up successfully. If you have any queries or doubts, feel free to ping me on [Telegram](https://t.me/vvekm) messenger. I will be very happy to help you!
+Congratulations, you have Burp Suite Pro set up successfully. If you have any queries or doubts, feel free to ping me on [Telegram](https://t.me/vvekm) messenger, I will be very happy to help you!
