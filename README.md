@@ -1,6 +1,6 @@
 # Tech Aware
 
-Join our Telegram Channel [here]("https://t.me/tech_aware")
+Join our Telegram Channel [here](https://t.me/tech_aware)
 
 ![image](/static/img/homepage.png)
 
