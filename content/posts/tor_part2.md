@@ -9,7 +9,7 @@ tags: ["Intermediate", "Cyber-security", "Guide"]
 
 ## Part 2: How to use Tor?
 
-Tor can be used on almost all the popular devices today - be it running Linux, Windows, Mac, Android or iOS. It is also supported by IOT devices. Today we are going to explore how to install:
+Tor can run on antyhing that has an eletric plus, be it Windows, Mac, Linux, Android ,iOS or IOT devices. Today we are going to explore how to use TOR on the following platforms
 
 - Tor on Windows, Mac and Linux
 - Tor on Android and iOS
@@ -19,7 +19,7 @@ Tor can be used on almost all the popular devices today - be it running Linux, W
 
 ### Tor on Windows, Mac and Linux
 
-You can directly fire up the Tor Browser on these systems but its not the most effective way to utilize Tor. As we all know how _privacy oriented_ Windows and Mac are, it is not advised to run the Tor Browser in these systems. The same goes with the Tor in Virtualbox or Vmware.
+You can directly fire up the Tor Browser on these systems but its not the most effective way to utilize Tor. As we all know how _privacy oriented_ Windows and Mac are  :joy:, it is not advised to run the Tor Browser on these systems. The same goes with the Tor on Virtualbox or Vmware.
 
 Let us not forget Tor is privacy tool not an anonymity tool. So I would insist you use an OS built for Tor like **Tails**. You can download the Tails and burn it to your USB and your good to go. I will also show you how to make a persistent volume on the Tails USB.
 
@@ -36,7 +36,7 @@ Download the Tails OS form the [Tails](https://tails.boum.org/install/index.en.h
 
 > _Pro tip: Always verify the downloaded checksum regardless of just this OS!_
 
-Burn the Tails Os to the USB using [_Rufus_](https://rufus.ie/). Now boot from your USB.
+Burn the Tails OS to your USB using [_Rufus_](https://rufus.ie/). Now boot from your USB.
 
 When you boot up the USB you'll be presented with this screen, by default your MAC address will be spoofed and only Tor Browser will be allowed to run, other Browsers will be disabled.
 
@@ -48,21 +48,21 @@ You can setup the Admin password if you want to access any internal system drive
 
 This is live system, meaning you can not save anything, and all the customizations made to Tails USB will be lost when you reboot. Not only this, but Tails also wipes the RAM to protect you from cold boot attacks.
 
+And if you remove the USB while the system is running the system wipes the RAM and shuts down.
+
 Tails changes your timezone, runs all your network traffic through Tor chain and reduces your fingerprints on the internet.
 
 ![Tor Browser](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-53-01.png)
 
-Do not run Tor Browser in full-screen because this can give up your screen resolution and add to your web fingerprint.
+Do not run Tor Browser in full-screen because this can give up your screen resolution which adds to your web fingerprint.
 
-![enter image description here](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-53-12.png)
+![Tor Browser](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-53-12.png)
 
 As you can see the IP address, we are connected to Tor network.
 
-You can also change the security level..
+You can also change the security level...
 
-![enter image description here](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-53-54.png)
-
-And if you remove the USB while the system is running the system wipes the RAM and shuts down.
+![Security](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-53-54.png)
 
 ![enter image description here](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-54-16.png)
 
@@ -72,7 +72,7 @@ So if you want to save anything you would need a persistent volume. The persiste
 
 This is very useful is you are using _cryptocurrency_ or basically anything and you are tired of configuring every time.
 
-Open the Applications > Tails and Configure persistent volume. You'll be presented a persistent setup wizard and pretty much follow the instruction the screen.
+Open the Applications > Tails and Configure persistent volume. You'll be presented with a persistent setup wizard and pretty much follow the instruction on the screen.
 
 ![Configuring the persistent volume](https://www.linkpicture.com/q/VirtualBox_Tails-4.11_09_10_2020_13_36_49.png)
 
@@ -98,7 +98,7 @@ To delete persistent volume select delete persistent volume in Applications > Ta
 
 Tor Browser for Android is the only official mobile Browser supported by the Tor Project. [Install](https://play.google.com/sTore/apps/details?id=org.Torproject.TorBrowser) it from the Google Play Store and you are good to go!
 
-Also check out [Orbot](https://play.google.com/sTore/apps/details?id=org.Torproject.android), a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world.
+Also check out [Orbot](https://play.google.com/sTore/apps/details?id=org.Torproject.android), a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. All your trafic for the selected app will be routed through Tor cahin.
 
 #### iOS
 
