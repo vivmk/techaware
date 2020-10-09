@@ -25,7 +25,7 @@ Let us not forget Tor is privacy tool not an anonymity tool. So I would insist y
 
 #### Setting up Tails USB
 
-##### Requirements -
+##### Requirements
 
 - 15 Minutes of your precious time
 - A USB stick with minimum 4 GB storage
