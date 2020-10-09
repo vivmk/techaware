@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about hidden part of the Internet"
+title: "Everything you need to know about Tor"
 date: 2020-10-09T19:18:14+05:30
 draft: false
 author: "Khaleeq"
