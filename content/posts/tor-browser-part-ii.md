@@ -1,7 +1,7 @@
 ---
 title: "Everything you need to know about the Tor Browser - Part 2"
 date: 2020-10-09T19:18:14+05:30
-draft: false
+draft: true
 author: "Khaleeq"
 description: "Tor can be used on almost all the popular devices today - be it running Linux, Windows, Mac, Android or iOS. It is also supported by IOT devices. You can directly fire up the Tor Browser on these systems but its not the most effect way to utilize Tor."
 tags: ["Intermediate", "Cyber-security", "Guide"]
