@@ -1,6 +1,6 @@
 ---
 title: "Part 2: Using TOR"
-date: 2020-09-26T08:40:12+05:30
+date: 2020-09-10
 draft: false
 author: "Khaleeq"
 description: "How to use TOR"
