@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about Tor"
+title: "Everything you need to know about Tor browser - Part II"
 date: 2020-10-09T19:18:14+05:30
 draft: true
 author: "Khaleeq Ahmed"
@@ -7,7 +7,7 @@ description: "TOR can be used on pretty much anything with an electric pulse, it
 tags: ["Intermediate", "Cyber-security", "Guide"]
 ---
 
-# Part 2: How to use TOR?
+### Part 2: How to use TOR?
 
 TOR can be used on pretty much anything with an electric pulse, it can run on Linux, Windows, Mac, Android, iOS and any IOT device.
 
