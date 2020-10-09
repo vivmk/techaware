@@ -12,7 +12,7 @@ Burp Suite is an integrated platform for performing security testing of web appl
 Things that you will need:
 
 1. Java JDK (13.0.2) - [Download](https://www.filehorse.com/download-java-development-kit-64/46499/download/)
-2. Burp Suite Pro zip file (2020.9.2.2) - [Download](https://t.me/burpsuite/140)
+2. Burp Suite Pro zip file (2020.9.2) - [Download](https://t.me/burpsuite/140)
 
 ---
 
