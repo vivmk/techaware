@@ -1,11 +1,10 @@
 ---
 title: "Everything you need to know about hidden part of the Internet"
-date: 2020-09-10T18:30:29+05:30
+date: 2020-10-09T19:18:14+05:30
 draft: false
-author: "Khaleeq"
-description: "How to use TOR"
+author: "Khaleeq Ahmed"
+description: "TOR can be used on pretty much anything with an electric pulse, it can run on Linux, Windows, Mac, Android, iOS and any IOT device. You can directly fire up the TOR browser on these systems but its not the most effect way to utilize TOR."
 tags: ["Intermediate", "Cyber-security", "Guide"]
-description: "TOR can be used on pretty much anything with an electric pulse, it can run on Linux, Windows, Mac, Android, iOS and any IOT device."
 ---
 
 # Part 2: How to use TOR?
