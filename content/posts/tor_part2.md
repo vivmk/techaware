@@ -32,7 +32,7 @@ Let us not forget Tor is privacy tool not an anonymity tool. So I would insist y
 
 Let us get started!
 
-Download the Tails OS form the [Tails](https://tails.boum.org/install/index.en.html). Always be up to date on the Tails OS because new bugs and vulnerabilities get discovered everyday. After downloading, [verify](#) the checksum.
+Download the Tails OS form the [Tails](https://tails.boum.org/install/index.en.html). Always be up to date on the Tails OS because new bugs and vulnerabilities get discovered everyday. After downloading, [verify](https://tails.boum.org/install/win/usb-download/index.en.html#install-inc-steps-download.inline.basic-openpgp) the checksum.
 
 > _Pro tip: Always verify the downloaded checksum regardless of just this OS!_
 
