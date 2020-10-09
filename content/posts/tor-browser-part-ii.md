@@ -62,9 +62,9 @@ You can also change the security level..
 
 ![enter image description here](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-53-54.png)
 
-![enter image description here](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-54-16.png)
-
 And if you remove the USB while the system is running the system wipes the RAM and shuts down.
+
+![enter image description here](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-09-54-16.png)
 
 #### Configuring the persistent volume
 
@@ -78,13 +78,13 @@ Open the Applications > Tails and Configure persistent volume. You'll be present
 
 ![Persistence wizard](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-15-05-37.png)
 
-Select the applications or utilities for which you would want to enable persistence and select save...
+Select the applications or utilities for which you would want to enable persistence and select save:
 
 ![Setup](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-15-06-51.png)
 
 ![Reboot](https://www.linkpicture.com/q/Screenshot-from-2020-10-09-15-14-21.png)
 
-You have to reboot in order for the persistence to work.
+You have to reboot in order for the persistence to work:
 
 ![setup complete](https://www.linkpicture.com/q/IMG_20201009_143844.jpg)
 
@@ -96,29 +96,13 @@ To delete persistent volume select delete persistent volume in Applications > Ta
 
 #### Android
 
-Install the Tor browser from Play STore and you are good to go:
+Tor Browser for Android is the only official mobile browser supported by the Tor Project. [Install](https://play.google.com/sTore/apps/details?id=org.Torproject.Torbrowser) it from the Google Play Store and you are good to go!
 
-![Tor](https://www.linkpicture.com/q/Screenshot_20201009-174616.jpg)
+Also check out [Orbot](https://play.google.com/sTore/apps/details?id=org.Torproject.android), a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world.
 
-Tor for Android is the only official mobile browser supported by the Tor Project:
+#### iOS
 
-[Tor Browser](https://play.google.com/sTore/apps/details?id=org.Torproject.Torbrowser)
-
-![orbot](https://www.linkpicture.com/q/Screenshot_20201009-174641.jpg)
-
-Orbot is Tor free proxy app:
-
-[Orbot](https://play.google.com/sTore/apps/details?id=org.Torproject.android)
-
-### iOS (for iPhones)
-
-Install the Tor browser from App STore and you are good to go:
-
-![enter image description here](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/b9/ac/dab9acf3-7946-dc77-7170-70662e920655/pr_source.png/600x0w.png)
-
-Onion Browser is the original free and open-source Tor-powered web browser for iOS:
-
-[Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448)
+Install the Tor browser from Apple App Store and you are good to go. [Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448) is the original free and open-source Tor powered web browser for iOS.
 
 ---
 
