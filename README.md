@@ -1,5 +1,7 @@
 # Tech Aware
 
+Join our Telegram Channel [here](https://t.me/tech_aware)
+
 ![image](/static/img/homepage.png)
 
 ---
@@ -64,4 +66,4 @@ git push origin master
 
 Copyright © 2020 Vivek Mishra ([@iamvvekm](https://twitter.com/iamvvekm))
 
-The website is released under the MIT License. Check the [original theme license](https://github.com/iamvkm/techaware/blob/master/LICENSE.md) for additional licensing information.
+The website is released under the MIT License. Check the [original project license](https://github.com/iamvkm/techaware/blob/master/LICENSE.md) for additional licensing information.

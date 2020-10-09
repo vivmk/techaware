@@ -11,8 +11,8 @@ Burp Suite is an integrated platform for performing security testing of web appl
 
 Things that you will need:
 
-1. Java JDK (13.0.2) - [Download](https://rb.gy/makqnd)
-2. Burp Suite Pro zip file (2020.9) - [Download](https://t.me/burpsuite/135)
+1. Java JDK (13.0.2) - [Download](https://www.filehorse.com/download-java-development-kit-64/46499/download/)
+2. Burp Suite Pro zip file (2020.9.2) - [Download](https://t.me/burpsuite/140)
 
 ---
 
@@ -50,12 +50,12 @@ Click OK and close Variables Window. You are half way there.
 
 ---
 
-Now extract the downlaoded `BurpSuite_Pro_2020.9.zip`. Use the password: 311138 if prompted. You will see three `.jar` files and one `.txt` file. Open the folder.
+Now extract the downlaoded `BurpSuite_Pro_2020.9.2.zip` file. Use the password: 311138 if prompted. You will see three `.jar` files and one `.txt` file inside. In the same folder:
 
 - Press and hold Shift key and right click on the screen. Click open `Command Prompt` or `Windows Powershell` window here.
 - Paste and run the following command:
 
-  `java -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.9.jar`
+  `java -javaagent:BurpSuiteLoader_v2020.9.2.jar -noverify -jar burpsuite_pro_v2020.9.2.jar`
 
 - Follow the instructions to install Burp Suite.
 - When you reach the License activation page, open a new Command Prompt window again in the same folder and run the following command:
@@ -64,7 +64,7 @@ Now extract the downlaoded `BurpSuite_Pro_2020.9.zip`. Use the password: 311138 
 
 - You will see the following window:
 
-![Burp Suite License Activation Window](https://www.linkpicture.com/q/activation.png)
+  ![Burp Suite License Activation Window](https://www.linkpicture.com/q/activation.png)
 
 - Copy the text in License box and paste it in your installation window and hit Next.
 - Select Manual Activation, copy the Activation Request key and paste it in the above shown window to get the Activation Response key.
@@ -72,13 +72,15 @@ Now extract the downlaoded `BurpSuite_Pro_2020.9.zip`. Use the password: 311138 
 
 #### How to open the installed Burp Suite Pro?
 
-- Open Notepad and paste the following command in it:
+- Search `Notepad` in the Windows search bar, open it and paste the following command:
 
-  `java -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.9.jar`
+  `java -javaagent:BurpSuiteLoader_v2020.9.2.jar -noverify -jar burpsuite_pro_v2020.9.2.jar`
 
-- Now save the file as Burp.bat
-- Open that file whenever you want to open Burp.
+- Go to `File > Save As...` and open the folder you extracted earlier. Save the file there as: `BurpLoader.bat`. Remember to select `All Files` in the `Save as type` option.
+- Now whenever you want to open Burp Suite, just double click on your `BurpLoader.bat` file.
 
 ---
 
-Congrats, you have successfully installed Burp Suite Pro. If you have any queries or doubts, feel free to ping me on [Telegram](https://t.me/vvekm) messenger. I will be happy to help you!
+For further guides on how to use Burp, check out [this](https://portswigger.net/burp/documentation/desktop/getting-started "PortSwigger page") awesome official page.
+
+Congratulations, you have Burp Suite Pro set up successfully. If you have any queries or doubts, feel free to ping me on [Telegram](https://t.me/vvekm) messenger, I will be very happy to help you!
