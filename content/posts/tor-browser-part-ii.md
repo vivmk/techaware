@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about Tor Browser - Part 2"
+title: "Everything you need to know about the Tor Browser - Part 2"
 date: 2020-10-09T19:18:14+05:30
 draft: false
 author: "Khaleeq"
