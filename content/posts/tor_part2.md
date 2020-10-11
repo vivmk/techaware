@@ -9,7 +9,7 @@ tags: ["Intermediate", "Tor", "Guide"]
 
 ## Part 2: How to use Tor?
 
-Tor can run on antyhing that has an eletric plus be it Windows, Mac, Linux, Android ,iOS or IOT devices. Today we are going to explore how to use TOR on the following platforms
+Tor can run on anything that has an eletric pluse be it Windows, Mac, Linux, Android ,iOS or IOT devices. Today we are going to explore how to use TOR on the following platforms
 
 - Tor on Windows, Mac and Linux
 - Tor on Android and iOS
