@@ -21,7 +21,7 @@ Tor can run on anything that has an eletric pluse be it Windows, Mac, Linux, And
 
 You can directly fire up the Tor Browser on these systems but its not the most effective way to utilize Tor. As we all know how _privacy oriented_ Windows and Mac are  :joy:, it is not advised to run the Tor Browser on these systems. The same goes with the Tor on Virtualbox or Vmware.
 
-Let us not forget Tor is privacy tool not an anonymity tool. So I would insist you use an OS built for Tor like **Tails**. You can download the Tails and burn it to your USB and your good to go. I will also show you how to make a persistent volume on the Tails USB.
+Let us not forget Tor is a anonymity tool and less of a privacy tool. So I would insist you use an OS built for Tor like **Tails**. You can download the Tails and burn it to your USB and your good to go. I will also show you how to make a persistent volume on the Tails USB.
 
 #### Setting up Tails USB
 
