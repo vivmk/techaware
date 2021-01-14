@@ -12,7 +12,7 @@ Burp Suite is an integrated platform for performing security testing of web appl
 Things that you will need:
 
 1. Java JDK (13.0.2) - [Download](https://www.filehorse.com/download-java-development-kit-64/46499/download/)
-2. Burp Suite Pro zip file (2020.11.3) - [Download](https://t.me/burpsuite/172)
+2. Burp Suite Pro zip file (2020.12.1) - [Download](https://t.me/burpsuite/181)
 
 ---
 
@@ -50,12 +50,12 @@ Click OK and close Variables Window. You are half way there.
 
 ---
 
-Now extract the downlaoded `BurpSuite_Pro_2020.11.3.zip` file. Use the password: 311138 if prompted. You will see three `.jar` files and one `.txt` file inside. In the same folder:
+Now extract the downlaoded `BurpSuite_Pro_2020.12.1.zip` file. Use the password: 311138 if prompted. You will see three `.jar` files and one `.txt` file inside. In the same folder:
 
 - Press and hold Shift key and right click on the screen. Click open `Command Prompt` or `Windows Powershell` window here.
 - Paste and run the following command:
 
-  `java -javaagent:BurpSuiteLoader_v2020.11.3.jar -noverify -jar burpsuite_pro_v2020.11.3.jar`
+  `java -javaagent:BurpSuiteLoader_v2020.12.1.jar -noverify -jar burpsuite_pro_v2020.12.1.jar`
 
 - Follow the instructions to install Burp Suite.
 - When you reach the License activation page, open a new Command Prompt window again in the same folder and run the following command:
@@ -74,7 +74,7 @@ Now extract the downlaoded `BurpSuite_Pro_2020.11.3.zip` file. Use the password:
 
 - Search `Notepad` in the Windows search bar, open it and paste the following command:
 
-  `java -javaagent:BurpSuiteLoader_v2020.11.3.jar -noverify -jar burpsuite_pro_v2020.11.3.jar`
+  `java -javaagent:BurpSuiteLoader_v2020.12.1.jar -noverify -jar burpsuite_pro_v2020.12.1.jar`
 
 - Go to `File > Save As...` and open the folder you extracted earlier. Save the file there as: `BurpLoader.bat`. Remember to select `All Files` in the `Save as type` option.
 - Now whenever you want to open Burp Suite, just double click on your `BurpLoader.bat` file.
