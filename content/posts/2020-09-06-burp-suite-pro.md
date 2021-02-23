@@ -76,10 +76,11 @@ Now extract the downlaoded `BurpSuite_Pro_2021.2.1.zip` file. Use the password: 
 
   `java -javaagent:BurpSuiteLoader_v2021.2.1.jar -noverify -jar burpsuite_pro_v2021.2.1.jar`
 
-- Go to `File > Save As...` and open the folder you extracted earlier. Save the file there as: `BurpLoader.bat`. Remember to select `All Files` in the `Save as type` option.
-- Now whenever you want to open Burp Suite, just double click on your `BurpLoader.bat` file as shown:
+- Go to `File > Save As...` and open the folder you extracted earlier. Save the file there as: `BurpLoader.bat`. Remember to select `All Files` in the `Save as type` option as shown:
 
   ![BurpLoader Bat File](https://techaware.netlify.app/img/2020-09-06-bat.png)
+  
+- Now whenever you want to open Burp Suite, just double click on your `BurpLoader.bat` file.
 
 ---
 
