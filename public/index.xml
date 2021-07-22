@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Aware</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Tech Aware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tech Aware &amp;copy 2020</copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 12:22:25 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with Anaconda in Windows, Linux and Mac OS</title>
+      <link>/posts/2020-10-12-anaconda/</link>
+      <pubDate>Mon, 12 Oct 2020 12:22:25 +0530</pubDate>
+      
+      <guid>/posts/2020-10-12-anaconda/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>An ultimate beginner guide to explore GitHub from scratch</title>
+      <link>/posts/2020-10-02-github-guide/</link>
+      <pubDate>Fri, 02 Oct 2020 23:30:29 +0530</pubDate>
+      
+      <guid>/posts/2020-10-02-github-guide/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is for someone who has heard of GitHub somewhere, who knows little about what it is used for, or someone who tried it but found it hard work with or understand. Let us make this simple.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to install custom ROMs on supported Xiaomi phones</title>
+      <link>/posts/2020-09-29-custom-rom/</link>
+      <pubDate>Tue, 29 Sep 2020 19:34:03 +0530</pubDate>
+      
+      <guid>/posts/2020-09-29-custom-rom/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A custom ROM is one that has undergone any modification from being a pure distribution of Android. You can read more about it in detail in [this](https://www.androidauthority.com/what-is-a-custom-rom-android-74072/) article.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My favourite resources to explore Cyber-security career</title>
+      <link>/posts/2020-09-26-cyber-resources/</link>
+      <pubDate>Sat, 26 Sep 2020 08:40:12 +0530</pubDate>
+      
+      <guid>/posts/2020-09-26-cyber-resources/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Learn how to install Kali Linux on Windows 10 through WSL</title>
+      <link>/posts/wsl-guide-windows/</link>
+      <pubDate>Sun, 13 Sep 2020 19:49:57 +0530</pubDate>
+      
+      <guid>/posts/wsl-guide-windows/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to install Burp Suite Professional for free on Windows</title>
+      <link>/posts/2020-09-06-burp-suite-pro/</link>
+      <pubDate>Sun, 06 Sep 2020 21:19:22 +0530</pubDate>
+      
+      <guid>/posts/2020-09-06-burp-suite-pro/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Roadmap to learn basic Front-End Web Development in 2021</title>
+      <link>/posts/2020-07-19-web-dev/</link>
+      <pubDate>Sun, 19 Jul 2020 12:41:48 +0530</pubDate>
+      
+      <guid>/posts/2020-07-19-web-dev/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is a pathway I took to learn to make attractive websites and responsive websites from scratch. All the resources listed here will be available for free on Internet &amp; you need not pay a buck for anything.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to get paid things for absolutely free on the Internet</title>
+      <link>/posts/2020-07-19-free-content/</link>
+      <pubDate>Sun, 19 Jul 2020 12:29:56 +0530</pubDate>
+      
+      <guid>/posts/2020-07-19-free-content/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          It&#39;s said that in the hacking world that if you cannot find a free way of getting a paid thing on the Internet, you are not looking enough.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hello, Friend? Hello friend? That&amp;rsquo;s lame. Maybe I should give you a name. But that&amp;rsquo;s a slippery slope, you&amp;rsquo;re only in my head, we have to remember that. Shit, this actually happened, I&amp;rsquo;m talking to an imaginary person. What I&amp;rsquo;m about to tell you is top secret. A conspiracy bigger than all of us. There&amp;rsquo;s a powerful group of people out there that are secretly running the world. I&amp;rsquo;m talking about the guys no one knows about, the ones that are invisible.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

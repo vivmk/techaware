@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Tech Aware</title>
+    
+    
+    
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Tech Aware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tech Aware &amp;copy 2020</copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 12:22:25 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with Anaconda in Windows, Linux and Mac OS</title>
+      <link>/posts/2020-10-12-anaconda/</link>
+      <pubDate>Mon, 12 Oct 2020 12:22:25 +0530</pubDate>
+      
+      <guid>/posts/2020-10-12-anaconda/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

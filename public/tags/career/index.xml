@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Tech Aware</title>
+    
+    
+    
+    <link>/tags/career/</link>
+    <description>Recent content in Career on Tech Aware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tech Aware &amp;copy 2020</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 23:30:29 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An ultimate beginner guide to explore GitHub from scratch</title>
+      <link>/posts/2020-10-02-github-guide/</link>
+      <pubDate>Fri, 02 Oct 2020 23:30:29 +0530</pubDate>
+      
+      <guid>/posts/2020-10-02-github-guide/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is for someone who has heard of GitHub somewhere, who knows little about what it is used for, or someone who tried it but found it hard work with or understand. Let us make this simple.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My favourite resources to explore Cyber-security career</title>
+      <link>/posts/2020-09-26-cyber-resources/</link>
+      <pubDate>Sat, 26 Sep 2020 08:40:12 +0530</pubDate>
+      
+      <guid>/posts/2020-09-26-cyber-resources/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Roadmap to learn basic Front-End Web Development in 2021</title>
+      <link>/posts/2020-07-19-web-dev/</link>
+      <pubDate>Sun, 19 Jul 2020 12:41:48 +0530</pubDate>
+      
+      <guid>/posts/2020-07-19-web-dev/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is a pathway I took to learn to make attractive websites and responsive websites from scratch. All the resources listed here will be available for free on Internet &amp; you need not pay a buck for anything.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

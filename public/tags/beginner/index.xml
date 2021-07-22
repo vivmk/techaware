@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginner on Tech Aware</title>
+    
+    
+    
+    <link>/tags/beginner/</link>
+    <description>Recent content in Beginner on Tech Aware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tech Aware &amp;copy 2020</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 23:30:29 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An ultimate beginner guide to explore GitHub from scratch</title>
+      <link>/posts/2020-10-02-github-guide/</link>
+      <pubDate>Fri, 02 Oct 2020 23:30:29 +0530</pubDate>
+      
+      <guid>/posts/2020-10-02-github-guide/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is for someone who has heard of GitHub somewhere, who knows little about what it is used for, or someone who tried it but found it hard work with or understand. Let us make this simple.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to install custom ROMs on supported Xiaomi phones</title>
+      <link>/posts/2020-09-29-custom-rom/</link>
+      <pubDate>Tue, 29 Sep 2020 19:34:03 +0530</pubDate>
+      
+      <guid>/posts/2020-09-29-custom-rom/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A custom ROM is one that has undergone any modification from being a pure distribution of Android. You can read more about it in detail in [this](https://www.androidauthority.com/what-is-a-custom-rom-android-74072/) article.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My favourite resources to explore Cyber-security career</title>
+      <link>/posts/2020-09-26-cyber-resources/</link>
+      <pubDate>Sat, 26 Sep 2020 08:40:12 +0530</pubDate>
+      
+      <guid>/posts/2020-09-26-cyber-resources/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Roadmap to learn basic Front-End Web Development in 2021</title>
+      <link>/posts/2020-07-19-web-dev/</link>
+      <pubDate>Sun, 19 Jul 2020 12:41:48 +0530</pubDate>
+      
+      <guid>/posts/2020-07-19-web-dev/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is a pathway I took to learn to make attractive websites and responsive websites from scratch. All the resources listed here will be available for free on Internet &amp; you need not pay a buck for anything.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>How to get paid things for absolutely free on the Internet</title>
+      <link>/posts/2020-07-19-free-content/</link>
+      <pubDate>Sun, 19 Jul 2020 12:29:56 +0530</pubDate>
+      
+      <guid>/posts/2020-07-19-free-content/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          It&#39;s said that in the hacking world that if you cannot find a free way of getting a paid thing on the Internet, you are not looking enough.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
