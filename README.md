@@ -1,7 +1,5 @@
 # Tech Aware
 
-Join our Telegram Channel [here](https://t.me/tech_aware)
-
 ![image](/static/img/homepage.png)
 
 ---
@@ -34,9 +32,16 @@ Clone the repository you forked to your computer:
 $ git clone https://github.com/iamvkm/techaware.git
 ```
 
-Make changes to the files you want. If you are creating a new post.md file, change the `draft: false` and run this command to run the project in browser locally:
+Make changes to the files you want. If you want to create a new post, here is command:
 
 ```bash
+$ hugo new posts/enter-post-name.md
+```
+
+Enter content in post and make the `draft: false` then run these commands to run the project in browser locally:
+
+```bash
+$ hugo
 $ hugo server
 ```
 
