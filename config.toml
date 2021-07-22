@@ -16,7 +16,7 @@ googleAnalytics = "UA-133160807-4"
     title = "Tech Aware"
     subtitle = "Technology Simplified!"
     keywords = "Security, Technology, Software, Internet"
-    copyright = "Tech Aware &copy 2020"
+    copyright = "Free and Open-Source ❤️ Tech Aware &copy 2021"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -34,10 +34,10 @@ googleAnalytics = "UA-133160807-4"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
         identifier = "archive"
         name = "Archive"
         url = "/archive"
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/iamvkm/techaware"
