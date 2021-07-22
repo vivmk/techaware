@@ -9,11 +9,31 @@
     <description>Recent content in Guide on Tech Aware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Tech Aware &amp;copy 2020</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 12:22:25 +0530</lastBuildDate>
+    <copyright>Free and Open-Source ❤️ Tech Aware &amp;copy 2021</copyright>
+    <lastBuildDate>Thu, 22 Jul 2021 19:58:57 +0530</lastBuildDate>
     
 	<atom:link href="/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to React for Beginners</title>
+      <link>/posts/2021-07-22-react-intro/</link>
+      <pubDate>Thu, 22 Jul 2021 19:58:57 +0530</pubDate>
+      
+      <guid>/posts/2021-07-22-react-intro/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Getting started with Anaconda in Windows, Linux and Mac OS</title>

@@ -9,11 +9,31 @@
     <description>Recent content on Tech Aware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Tech Aware &amp;copy 2020</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 12:22:25 +0530</lastBuildDate>
+    <copyright>Free and Open-Source ❤️ Tech Aware &amp;copy 2021</copyright>
+    <lastBuildDate>Thu, 22 Jul 2021 19:58:57 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to React for Beginners</title>
+      <link>/posts/2021-07-22-react-intro/</link>
+      <pubDate>Thu, 22 Jul 2021 19:58:57 +0530</pubDate>
+      
+      <guid>/posts/2021-07-22-react-intro/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Getting started with Anaconda in Windows, Linux and Mac OS</title>
@@ -170,26 +190,6 @@
         
         
           It&#39;s said that in the hacking world that if you cannot find a free way of getting a paid thing on the Internet, you are not looking enough.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Hello, Friend? Hello friend? That&amp;rsquo;s lame. Maybe I should give you a name. But that&amp;rsquo;s a slippery slope, you&amp;rsquo;re only in my head, we have to remember that. Shit, this actually happened, I&amp;rsquo;m talking to an imaginary person. What I&amp;rsquo;m about to tell you is top secret. A conspiracy bigger than all of us. There&amp;rsquo;s a powerful group of people out there that are secretly running the world. I&amp;rsquo;m talking about the guys no one knows about, the ones that are invisible.
           
         
         </description>

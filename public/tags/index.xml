@@ -9,8 +9,8 @@
     <description>Recent content in Tags on Tech Aware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Tech Aware &amp;copy 2020</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 12:22:25 +0530</lastBuildDate>
+    <copyright>Free and Open-Source ❤️ Tech Aware &amp;copy 2021</copyright>
+    <lastBuildDate>Thu, 22 Jul 2021 19:58:57 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
     <item>
       <title>Guide</title>
       <link>/tags/guide/</link>
-      <pubDate>Mon, 12 Oct 2020 12:22:25 +0530</pubDate>
+      <pubDate>Thu, 22 Jul 2021 19:58:57 +0530</pubDate>
       
       <guid>/tags/guide/</guid>
       <description>
@@ -38,9 +38,29 @@
     <item>
       <title>Intermediate</title>
       <link>/tags/intermediate/</link>
-      <pubDate>Mon, 12 Oct 2020 12:22:25 +0530</pubDate>
+      <pubDate>Thu, 22 Jul 2021 19:58:57 +0530</pubDate>
       
       <guid>/tags/intermediate/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Thu, 22 Jul 2021 19:58:57 +0530</pubDate>
+      
+      <guid>/tags/web-development/</guid>
       <description>
         
           
@@ -161,26 +181,6 @@
       <pubDate>Sun, 06 Sep 2020 21:19:22 +0530</pubDate>
       
       <guid>/tags/hack/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>/tags/web-development/</link>
-      <pubDate>Sun, 19 Jul 2020 12:41:48 +0530</pubDate>
-      
-      <guid>/tags/web-development/</guid>
       <description>
         
           
