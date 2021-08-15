@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: techaware.netlify.app
-Token: 3e166df7bc0b3cd94890e23abb55f6b97acde75fe453be268788e32e809344ad
