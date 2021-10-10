@@ -64,10 +64,9 @@ Why so much fuss about it?  Reason 1: Immensely Powerful Community Reason 2: The
 <meta property="og:title" content="An ultimate beginner guide to explore GitHub from scratch" />
 <meta property="og:description" content="This is for someone who has heard of GitHub somewhere, who knows little about what it is used for, or someone who tried it but found it hard work with or understand. Let us make this simple." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/posts/2020-10-02-github-guide/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="/posts/2020-10-02-github-guide/" />
 <meta property="article:published_time" content="2020-10-02T23:30:29+05:30" />
 <meta property="article:modified_time" content="2020-10-02T23:30:29+05:30" /><meta property="og:site_name" content="Tech Aware" />
-
 
 
 
@@ -239,15 +238,15 @@ Why so much fuss about it?  Reason 1: Immensely Powerful Community Reason 2: The
 </li>
 <li>
 <p>Initialize the local directory as a Git repository by running:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git init
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git init
 </code></pre></div></li>
 <li>
 <p>Add the files in your new local repository. Add the files in the local repository and stages them for commit using the command:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git add .
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git add .
 </code></pre></div></li>
 <li>
 <p>Commit the files that you have staged in your local repository using:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git commit -m <span style="color:#e6db74">&#34;First commit&#34;</span>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git commit -m <span style="color:#e6db74">&#34;First commit&#34;</span>
 </code></pre></div></li>
 <li>
 <p>At the top of your GitHub repository&rsquo;s Quick Setup page, click the copy icon of the remote repository URL as shown below:</p>
@@ -255,12 +254,12 @@ Why so much fuss about it?  Reason 1: Immensely Powerful Community Reason 2: The
 </li>
 <li>
 <p>In the Command prompt, add the URL for the remote repository where your local repository will be pushed:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git remote add origin https://github.com/your_username/your_reponame.git
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git remote add origin https://github.com/your_username/your_reponame.git
 $ git remote -v
 </code></pre></div></li>
 <li>
 <p>Push the changes in your local repository to GitHub:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git push origin master
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git push origin master
 </code></pre></div></li>
 </ol>
 <h4 id="hey-you-just-did-your-first-work-on-your-project">Hey! You just did your first work on your project!</h4>
@@ -282,18 +281,18 @@ If you are working on <a href="https://code.visualstudio.com/download">VS Code</
 </li>
 <li>
 <p>Open a Git Bash and type:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git clone git@github.com:your_username/the_repo
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git clone git@github.com:your_username/the_repo
 </code></pre></div></li>
 <li>
 <p>You will now have a local copy of your version of that repository.</p>
 </li>
 <li>
 <p>Change into that project directory (the_repo):</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ cd the_repo
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ cd the_repo
 </code></pre></div></li>
 <li>
 <p>Add a connection to the original owner’s repository:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git remote add owner_username git://github.com/owner_username/the_repo
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ git remote add owner_username git://github.com/owner_username/the_repo
 $ git remote -v
 </code></pre></div></li>
 <li>
@@ -383,6 +382,7 @@ if (!doNotTrack) {
 	ga('send', 'pageview');
 }
 </script>
+
     
   </body>
 </html>
