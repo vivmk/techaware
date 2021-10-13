@@ -84,6 +84,6 @@ Now extract the downlaoded `BurpSuite_Pro_2021.8.4.zip` file. Use the password: 
 
 ---
 
-For further guides on how to use Burp, check out [this](https://portswigger.net/burp/documentation/desktop/getting-started "PortSwigger page") awesome official page.
+For further guides on how to use Burp, check out [this](https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic "PortSwigger page") awesome official page.
 
 Congratulations, you have Burp Suite Pro set up successfully!
