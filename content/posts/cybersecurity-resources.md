@@ -4,7 +4,6 @@ date: 2020-09-26T08:40:12+05:30
 draft: false
 author: "Vivek Mishra"
 description: "Collection of useful resources available on the Internet related to Cyber Security career."
-tags: ["Beginner", "Security"]
 ---
 
 Collection of useful resources available on the Internet related to Cyber Security career.
