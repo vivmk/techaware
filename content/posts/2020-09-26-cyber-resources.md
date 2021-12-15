@@ -1,13 +1,13 @@
 ---
-title: "My favourite resources to explore Cyber-security career"
+title: "Cyber Security Resources"
 date: 2020-09-26T08:40:12+05:30
 draft: false
 author: "Vivek Mishra"
-description: "I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested."
-tags: ["Beginner", "Cyber-security", "Career"]
+description: "Collection of useful resources available on the Internet related to Cyber Security career."
+tags: ["Beginner", "Security"]
 ---
 
-I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.
+Collection of useful resources available on the Internet related to Cyber Security career.
 
 ## General
 
