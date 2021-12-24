@@ -16,9 +16,7 @@ Now learn Bootstrap. It is a CSS library. But it is not as complex as it sounds.
 
 Learn it here : [Bootstrap 5 Crash Course | Website Build & Deploy](https://youtu.be/4sosXZsdy-s)
 
-Well! With all this you must be feeling pretty confident about building atleast somewhat responsive UI pages. Practice building some pages by your own now and then proceed with learning JavaScript :
-
-[JavaScript Crash Course For Beginners](https://youtu.be/hdI2bqOjy3c)
+Well! With all this you must be feeling pretty confident about building atleast somewhat responsive UI pages. Practice building some pages by your own now and then proceed with learning JavaScript : [JavaScript Crash Course For Beginners](https://youtu.be/hdI2bqOjy3c)
 
 Now you can move on with advanced stuff like Introduction to React :
 
