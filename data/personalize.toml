@@ -1,0 +1,27 @@
+Name = "TechAware"
+
+# Supports markdown
+About = "You don't start out writing good stuff! I have started this Blog to write out everything that I feel people need to know. Feel free to talk to me on [Telegram](https://t.me/vvekm)."
+
+Email = "vivekhere01@gmail.com"
+
+# Add the filename with file extension.
+Resume = ""
+
+# Sets the number of posts to display on the front page
+PostLimit = 4
+
+[[profiles]]
+name = "GitHub"
+url = "https://github.com/iamvkm"
+
+[[profiles]]
+name = "Twitter"
+url = "https://twitter.com/iamvvekm"
+
+[[profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/iamvkm/"
+
+# This is the endpoint under the integrations section of the Site Code
+GoatCounterCode = ""

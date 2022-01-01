@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Tech Aware</title>
-    
-    
-    
-    <link>/categories/</link>
-    <description>Recent content in Categories on Tech Aware</description>
+    <title>Categories on TechAware</title>
+    <link>https://techaware.netlify.app/categories/</link>
+    <description>Recent content in Categories on TechAware</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Free and Open-Source ❤️ Tech Aware &amp;copy 2021</copyright>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://techaware.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

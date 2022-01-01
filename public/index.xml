@@ -1,218 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech Aware</title>
-    
-    
-    
-    <link>/</link>
-    <description>Recent content on Tech Aware</description>
+    <title>TechAware</title>
+    <link>https://techaware.netlify.app/</link>
+    <description>Recent content on TechAware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Free and Open-Source ❤️ Tech Aware &amp;copy 2021</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 19:58:57 +0530</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 24 Dec 2021 18:31:55 +0530</lastBuildDate><atom:link href="https://techaware.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction to React for Beginners</title>
-      <link>/posts/2021-07-22-react-intro/</link>
-      <pubDate>Thu, 22 Jul 2021 19:58:57 +0530</pubDate>
+      <title>Web Dev Resources</title>
+      <link>https://techaware.netlify.app/posts/web-dev-resources/</link>
+      <pubDate>Fri, 24 Dec 2021 18:31:55 +0530</pubDate>
       
-      <guid>/posts/2021-07-22-react-intro/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
-          
-        
-        </description>
+      <guid>https://techaware.netlify.app/posts/web-dev-resources/</guid>
+      <description>Collection of useful resources available on the Internet related to Blockchain career.
+Learn these basic things which will tell you how to place content on web page and later style it so it looks better:
+ HTML Crash Course For Absolute Beginners CSS Crash Course For Absolute Beginners  Now learn Bootstrap. It is a CSS library. But it is not as complex as it sounds. Just a bunch of CSS code which is commonly used in all sites, so we include it using CDN link and save our time :)</description>
     </item>
     
     <item>
-      <title>Getting started with Anaconda in Windows, Linux and Mac OS</title>
-      <link>/posts/2020-10-12-anaconda/</link>
-      <pubDate>Mon, 12 Oct 2020 12:22:25 +0530</pubDate>
+      <title>Blockchain Resources</title>
+      <link>https://techaware.netlify.app/posts/blockchain-resources/</link>
+      <pubDate>Sun, 19 Dec 2021 08:51:47 +0530</pubDate>
       
-      <guid>/posts/2020-10-12-anaconda/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
-          
-        
-        </description>
+      <guid>https://techaware.netlify.app/posts/blockchain-resources/</guid>
+      <description>Collection of useful resources available on the Internet related to Blockchain career.
+If you do not have a practical idea of how blockchain works, here is a basic implementation of it in JavaScript you can follow on YouTube by Simple Explained:
+ Creating a blockchain Implementing Proof-of-Work Mining rewards &amp;amp; transactions Signing transactions  To be continued &amp;hellip;</description>
     </item>
     
     <item>
-      <title>An ultimate beginner guide to explore GitHub from scratch</title>
-      <link>/posts/2020-10-02-github-guide/</link>
-      <pubDate>Fri, 02 Oct 2020 23:30:29 +0530</pubDate>
-      
-      <guid>/posts/2020-10-02-github-guide/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          This is for someone who has heard of GitHub somewhere, who knows little about what it is used for, or someone who tried it but found it hard work with or understand. Let us make this simple.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>How to install custom ROMs on supported Xiaomi phones</title>
-      <link>/posts/2020-09-29-custom-rom/</link>
-      <pubDate>Tue, 29 Sep 2020 19:34:03 +0530</pubDate>
-      
-      <guid>/posts/2020-09-29-custom-rom/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          A custom ROM is one that has undergone any modification from being a pure distribution of Android. You can read more about it in detail in [this](https://www.androidauthority.com/what-is-a-custom-rom-android-74072/) article.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>My favourite resources to explore Cyber-security career</title>
-      <link>/posts/2020-09-26-cyber-resources/</link>
+      <title>Cyber Security Resources</title>
+      <link>https://techaware.netlify.app/posts/cybersecurity-resources/</link>
       <pubDate>Sat, 26 Sep 2020 08:40:12 +0530</pubDate>
       
-      <guid>/posts/2020-09-26-cyber-resources/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Learn how to install Kali Linux on Windows 10 through WSL</title>
-      <link>/posts/wsl-guide-windows/</link>
-      <pubDate>Sun, 13 Sep 2020 19:49:57 +0530</pubDate>
-      
-      <guid>/posts/wsl-guide-windows/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual-boot setup.
-          
-        
-        </description>
+      <guid>https://techaware.netlify.app/posts/cybersecurity-resources/</guid>
+      <description>Collection of useful resources available on the Internet related to Cyber Security career.
+General  The Career Media Resources Web Vulnerabilities Learn &amp;amp; Practice  Bug Bounty  What is it really? Hunting Methodology Popular Tools Burp Suite App Practice Hacking Skills Write ups Reporting Bugs  Capture The Flags  The Beginner Guide Calender of All Events Popular Tools List  Penetration Testing  Guide To Method OSCP Certification Practice Penetration LinkedIn Jobs  </description>
     </item>
     
     <item>
       <title>How to install Burp Suite Professional for free on Windows</title>
-      <link>/posts/2020-09-06-burp-suite-pro/</link>
+      <link>https://techaware.netlify.app/posts/2020-09-06-burp-suite-pro/</link>
       <pubDate>Sun, 06 Sep 2020 21:19:22 +0530</pubDate>
       
-      <guid>/posts/2020-09-06-burp-suite-pro/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Roadmap to learn basic Front-End Web Development in 2021</title>
-      <link>/posts/2020-07-19-web-dev/</link>
-      <pubDate>Sun, 19 Jul 2020 12:41:48 +0530</pubDate>
-      
-      <guid>/posts/2020-07-19-web-dev/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          This is a pathway I took to learn to make attractive websites and responsive websites from scratch. All the resources listed here will be available for free on Internet &amp; you need not pay a buck for anything.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>How to get paid things for absolutely free on the Internet</title>
-      <link>/posts/2020-07-19-free-content/</link>
-      <pubDate>Sun, 19 Jul 2020 12:29:56 +0530</pubDate>
-      
-      <guid>/posts/2020-07-19-free-content/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          It&#39;s said that in the hacking world that if you cannot find a free way of getting a paid thing on the Internet, you are not looking enough.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/archive/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
+      <guid>https://techaware.netlify.app/posts/2020-09-06-burp-suite-pro/</guid>
+      <description>Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine.
+Things that you will need:
+ Java JDK (13.0.2) - Download Burp Suite Pro zip file (2021.10) - Download   After you have downloaded both the files, follow these steps:</description>
     </item>
     
   </channel>
