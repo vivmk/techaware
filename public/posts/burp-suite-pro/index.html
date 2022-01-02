@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  <link rel="stylesheet" href="/css/style.css" />
+  
+  <title>Tech Aware — Technology Simplified! ❤️</title>
+  
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
+    crossorigin="anonymous"
+  />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik&display=swap"
+    rel="stylesheet"
+  />
+
+  <script src="/js/dark.js" defer=""></script>
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, 
+    user-scalable=no, maximum-scale=1, minimum-scale=1"
+  />
+
+  
+  <meta
+    name="description"
+    content="You don't start out writing good stuff! I have started this Blog to write out everything that I feel people need to know. Feel free to talk to me on [Telegram](https://t.me/vvekm)"
+  />
+  <meta
+    name="keywords"
+    content="TechAware, Blockchain, Web, Development, Cyber, Security, Vivek, Mishra, Blog, Bangalore, Software, Engineer"
+  />
+  <meta name="classification" content="Blog" />
+
+  <meta name="distribution" content="global" />
+  <meta name="author" content="TechAware" />
+
+  
+  <link
+    rel="shortcut icon"
+    href="/static/img/favicon-400.ico"
+    type="image/x-icon"
+  />
+  <link rel="icon" href="/static/img/favicon-400.ico" type="image/x-icon" />
+
+  <meta property="og:url" content="https://techaware.netlify.app" />
+  <meta property="og:image" content="" />
+</head>
+
+
+<html>
+  <!DOCTYPE html>
+<html>
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="muted small" href="https://techaware.netlify.app/"
+          >Tech Aware</a
+        >
+      </div>
+    </header>
+  </body>
+</html>
+
+  <h1>Burp Suite Professional</h1>
+  <p class="post-meta">
+    <time itemprop="datePublished">September 6, 2020</time>
+  </p>
+  <p>Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine.</p>
+<p>Things that you will need:</p>
+<ol>
+<li>Java JDK (13.0.2) - <a href="https://www.filehorse.com/download-java-development-kit-64/46499/download/">Download</a></li>
+<li>Burp Suite Pro zip file (2021.10) - <a href="https://t.me/burpsuite/314">Download</a></li>
+</ol>
+<hr>
+<p>After you have downloaded both the files, follow these steps:</p>
+<ul>
+<li>
+<p>Run the downloaded file <code>jdk-13.0.2_windows-x64_bin.exe</code> and let it install.</p>
+</li>
+<li>
+<p>Search <code>environment</code> in the Windows search bar. You will see a match for <code>Edit the system environment variables</code>. Open it and then click <code>Environment Variables</code> button in the bottom.</p>
+<p>You will see a window containing a part like this:</p>
+<p><img src="https://techaware.netlify.app/img/variables.png" alt="Environment Variables"></p>
+</li>
+</ul>
+<p>Under the System variables tab, click <code>New</code> and add the following variables:</p>
+<p><code>Variable name: CLASSPATH</code></p>
+<p><code>Variable value: C:\Program Files\Java\jdk-13.0.2\lib\*.jar</code></p>
+<hr>
+<p>Click OK. Then click <code>New</code> again and add another variable:</p>
+<p><code>Variable name: JAVA_HOME</code></p>
+<p><code>Variable value: C:\Program Files\Java\jdk-13.0.2</code></p>
+<hr>
+<p>Finally, double click the <code>Path</code> variable and click <code>New</code>. Add the following path:</p>
+<p><code>C:\Program Files\Java\jdk-13.0.2\bin</code></p>
+<p>Click OK and close Variables Window. You are half way there.</p>
+<hr>
+<p>Now extract the downlaoded <code>BurpSuite_Pro_2021.10.zip</code> file. Use the password: 311138 if prompted. You will see three <code>.jar</code> files and one <code>.txt</code> file inside. In the same folder:</p>
+<ul>
+<li>
+<p>Press and hold Shift key and right click on the screen. Click open <code>Command Prompt</code> or <code>Windows Powershell</code> window here.</p>
+</li>
+<li>
+<p>Paste and run the following command:</p>
+<p><code>java -javaagent:BurpSuiteLoader_v2021.10.jar -noverify -jar burpsuite_pro_v2021.10.jar</code></p>
+</li>
+<li>
+<p>Follow the instructions to install Burp Suite.</p>
+</li>
+<li>
+<p>When you reach the License activation page, open a new Command Prompt window again in the same folder and run the following command:</p>
+<p><code>java -jar burploader-old.jar</code></p>
+</li>
+<li>
+<p>You will see the following window:</p>
+<p><img src="https://techaware.netlify.app/img/activation.png" alt="Burp Suite License Activation Window"></p>
+</li>
+<li>
+<p>Copy the text in License box and paste it in your installation window and hit Next.</p>
+</li>
+<li>
+<p>Select Manual Activation, copy the Activation Request key and paste it in the above shown window to get the Activation Response key.</p>
+</li>
+<li>
+<p>Paste the Response key in the installation window and you are done!</p>
+</li>
+</ul>
+<h4 id="how-to-open-the-installed-burp-suite-pro">How to open the installed Burp Suite Pro?</h4>
+<ul>
+<li>
+<p>Search <code>Notepad</code> in the Windows search bar, open it and paste the following command:</p>
+<p><code>java -javaagent:BurpSuiteLoader_v2021.10.jar -noverify -jar burpsuite_pro_v2021.10.jar</code></p>
+</li>
+<li>
+<p>Go to <code>File &gt; Save As...</code> and open the folder you extracted earlier. Save the file there as: <code>BurpLoader.bat</code>. Remember to select <code>All Files</code> in the <code>Save as type</code> option as shown:</p>
+<p><img src="https://techaware.netlify.app/img/2020-09-06-bat.png" alt="BurpLoader Bat File"></p>
+</li>
+<li>
+<p>Now whenever you want to open Burp Suite, just double click on your <code>BurpLoader.bat</code> file.</p>
+</li>
+</ul>
+<hr>
+<p>For further guides on how to use Burp, check out <a href="https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic" title="PortSwigger page">this</a> awesome official page.</p>
+<p>Congratulations, you have Burp Suite Pro set up successfully!</p>
+ <footer>
+  <div>
+    <h3><a href="https://techaware.netlify.app/posts">Back to all posts</a></h3>
+  </div>
+  <hr />
+</footer>
+
+</html>

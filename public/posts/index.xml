@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on TechAware</title>
+    <title>Posts on Tech Aware</title>
     <link>https://techaware.netlify.app/posts/</link>
-    <description>Recent content in Posts on TechAware</description>
+    <description>Recent content in Posts on Tech Aware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Dec 2021 18:31:55 +0530</lastBuildDate><atom:link href="https://techaware.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -40,11 +40,11 @@ General  The Career Media Resources Web Vulnerabilities Learn &amp;amp; Practice
     </item>
     
     <item>
-      <title>How to install Burp Suite Professional for free on Windows</title>
-      <link>https://techaware.netlify.app/posts/2020-09-06-burp-suite-pro/</link>
+      <title>Burp Suite Professional</title>
+      <link>https://techaware.netlify.app/posts/burp-suite-pro/</link>
       <pubDate>Sun, 06 Sep 2020 21:19:22 +0530</pubDate>
       
-      <guid>https://techaware.netlify.app/posts/2020-09-06-burp-suite-pro/</guid>
+      <guid>https://techaware.netlify.app/posts/burp-suite-pro/</guid>
       <description>Burp Suite is an integrated platform for performing security testing of web applications. It is designed to be used by hands-on testers to support the testing process. Here we will see how you can install it for free on your Windows 7/8/10 64-bit machine.
 Things that you will need:
  Java JDK (13.0.2) - Download Burp Suite Pro zip file (2021.10) - Download   After you have downloaded both the files, follow these steps:</description>
