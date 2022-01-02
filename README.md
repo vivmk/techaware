@@ -4,7 +4,7 @@
 
 ---
 
-A simple open source Blog to get people closer to technology and learn ways to stay safer online.
+A simple open source Blog to get people closer to technology.
 
 ---
 
