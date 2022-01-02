@@ -19,7 +19,7 @@ Collection of useful resources available on the Internet related to Cyber Securi
 - [What is it really?](https://geekflare.com/bug-bounty-platforms/)
 - [Hunting Methodology](https://forum.bugcrowd.com/t/how-do-you-approach-a-target/293)
 - [Popular Tools](https://github.com/nahamsec/bbht)
-- [Burp Suite App](https://techaware.netlify.app/posts/2020-09-06-burp-suite-pro)
+- [Burp Suite App](https://techaware.netlify.app/posts/burp-suite-pro)
 - [Practice Hacking Skills](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/practice-platforms.md)
 - [Write ups](https://pentester.land/list-of-bug-bounty-writeups.html)
 - [Reporting Bugs](https://researcherdocs.bugcrowd.com/docs/reporting-a-bug)
