@@ -5,7 +5,7 @@ draft: false
 description: "Collection of useful resources available on the Internet related to Web Development career."
 ---
 
-Collection of useful resources available on the Internet related to Blockchain career.
+Collection of useful resources available on the Internet related to Web Development career.
 
 Learn these basic things which will tell you how to place content on web page and later style it so it looks better:
 
